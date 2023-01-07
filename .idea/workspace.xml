@@ -13,7 +13,6 @@
     <list default="true" id="272ad449-f5b9-4509-89b5-5328494fcc81" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../Labs/Lab2/Lab2_4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Labs/Lab2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/utlity.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Spring/BuilderPattern/src/main/java/DriverPerformance.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Spring/BuilderPattern/src/main/java/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Spring/CarTDD/src/main/java/com/example/cartdd/controller/CarController.java" afterDir="false" />
@@ -84,8 +83,10 @@
       <change afterPath="$PROJECT_DIR$/../../../V2Soft/V2Soft/src/main/java/subarray/SubArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../V2Soft/V2Soft/src/main/java/teamformation/TeamFormation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../V2Soft/V2Soft/src/main/java/teamformationBethi/TeamFormation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank-addition-full-without-outliers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bank-addition-full-without-outliers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/utlity.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/utlity.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,22 +207,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="201" key="GridCell.Tab.0.bottom" timestamp="1670981549854">
+    <state width="1419" height="201" key="GridCell.Tab.0.bottom" timestamp="1670990614190">
       <screen x="0" y="25" width="1440" height="792" />
     </state>
-    <state width="1419" height="201" key="GridCell.Tab.0.bottom/0.25.1440.792@0.25.1440.792" timestamp="1670981549854" />
-    <state width="1419" height="201" key="GridCell.Tab.0.center" timestamp="1670981549851">
+    <state width="1419" height="201" key="GridCell.Tab.0.bottom/0.25.1440.792@0.25.1440.792" timestamp="1670990614190" />
+    <state width="1419" height="201" key="GridCell.Tab.0.center" timestamp="1670990614188">
       <screen x="0" y="25" width="1440" height="792" />
     </state>
-    <state width="1419" height="201" key="GridCell.Tab.0.center/0.25.1440.792@0.25.1440.792" timestamp="1670981549851" />
-    <state width="1419" height="201" key="GridCell.Tab.0.left" timestamp="1670981549849">
+    <state width="1419" height="201" key="GridCell.Tab.0.center/0.25.1440.792@0.25.1440.792" timestamp="1670990614188" />
+    <state width="1419" height="201" key="GridCell.Tab.0.left" timestamp="1670990614187">
       <screen x="0" y="25" width="1440" height="792" />
     </state>
-    <state width="1419" height="201" key="GridCell.Tab.0.left/0.25.1440.792@0.25.1440.792" timestamp="1670981549849" />
-    <state width="1419" height="201" key="GridCell.Tab.0.right" timestamp="1670981549853">
+    <state width="1419" height="201" key="GridCell.Tab.0.left/0.25.1440.792@0.25.1440.792" timestamp="1670990614187" />
+    <state width="1419" height="201" key="GridCell.Tab.0.right" timestamp="1670990614189">
       <screen x="0" y="25" width="1440" height="792" />
     </state>
-    <state width="1419" height="201" key="GridCell.Tab.0.right/0.25.1440.792@0.25.1440.792" timestamp="1670981549853" />
+    <state width="1419" height="201" key="GridCell.Tab.0.right/0.25.1440.792@0.25.1440.792" timestamp="1670990614189" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
